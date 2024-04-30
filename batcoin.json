@@ -1,0 +1,12 @@
+{
+    "name": "BatCoin",
+    "symbol": "BtC",
+    "description": "Be Bat",
+    "image": "https://raw.githubusercontent.com/Standay/batcoin/main/batcoin.png",
+    "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "Developer Portal"
+      }
+    ]
+  }
